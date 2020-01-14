@@ -1,0 +1,7 @@
+Combo 21: std_1: 0.13 with rank: 63 | std_2: 0.12 with rank: 62 | dif: 0.188 with rank: 38 | Hyper-parameters: skips: 10, winsize: 20, residual_threshold: 1.25
+Combo 51: std_1: 0.13 with rank: 55 | std_2: 0.13 with rank: 76 | dif: 0.189 with rank: 37 | Hyper-parameters: skips: 20, winsize: 20, residual_threshold: 1.25
+Combo 56: std_1: 0.12 with rank: 43 | std_2: 0.13 with rank: 72 | dif: 0.152 with rank: 58 | Hyper-parameters: skips: 20, winsize: 20, residual_threshold: 1.50
+Combo 81: std_1: 0.13 with rank: 57 | std_2: 0.12 with rank: 54 | dif: 0.221 with rank: 28 | Hyper-parameters: skips: 30, winsize: 20, residual_threshold: 1.25
+Combo 86: std_1: 0.13 with rank: 48 | std_2: 0.12 with rank: 56 | dif: 0.147 with rank: 59 | Hyper-parameters: skips: 30, winsize: 20, residual_threshold: 1.50
+Combo 116: std_1: 0.12 with rank: 41 | std_2: 0.14 with rank: 78 | dif: 0.168 with rank: 53 | Hyper-parameters: skips: 40, winsize: 20, residual_threshold: 1.50
+Combo 146: std_1: 0.12 with rank: 42 | std_2: 0.13 with rank: 70 | dif: 0.156 with rank: 57 | Hyper-parameters: skips: 50, winsize: 20, residual_threshold: 1.50

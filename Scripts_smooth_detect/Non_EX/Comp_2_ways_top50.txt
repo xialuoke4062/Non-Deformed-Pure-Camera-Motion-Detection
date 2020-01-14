@@ -1,0 +1,4 @@
+Combo 102: std_sum: 0.30 with rank: 46 | dif: 0.22 with rank: 41 | Hyper-parameters: skips: 13, winsize: 16, residual_threshold: 0.80
+Combo 129: std_sum: 0.30 with rank: 41 | dif: 0.22 with rank: 44 | Hyper-parameters: skips: 16, winsize: 13, residual_threshold: 0.50
+Combo 148: std_sum: 0.30 with rank: 49 | dif: 0.26 with rank: 9 | Hyper-parameters: skips: 16, winsize: 10, residual_threshold: 0.75
+Combo 190: std_sum: 0.30 with rank: 40 | dif: 0.22 with rank: 49 | Hyper-parameters: skips: 19, winsize: 16, residual_threshold: 0.60

@@ -1,0 +1,1 @@
+Combo 843: std_1: 0.00 with rank: 0 | std_2: 0.00 with rank: 246 | dif: 0.028 with rank: 298 | Hyper-parameters: skips: 40.0, winsize: 20.0, residual_threshold: 4.00

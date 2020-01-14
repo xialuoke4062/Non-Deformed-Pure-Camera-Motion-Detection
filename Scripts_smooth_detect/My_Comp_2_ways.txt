@@ -1,0 +1,1 @@
+Combo 284: std_sum: 0.32 with rank: 168 | dif: 0.27 with rank: 5 | Hyper-parameters: skips: 19, winsize: 10, residual_threshold: 1.00

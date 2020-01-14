@@ -1,0 +1,3 @@
+Combo 21: std_1: 0.13 with rank: 63 | std_2: 0.12 with rank: 62 | dif: 0.188 with rank: 38 | Hyper-parameters: skips: 10, winsize: 20, residual_threshold: 1.25
+Combo 81: std_1: 0.13 with rank: 57 | std_2: 0.12 with rank: 54 | dif: 0.221 with rank: 28 | Hyper-parameters: skips: 30, winsize: 20, residual_threshold: 1.25
+Combo 86: std_1: 0.13 with rank: 48 | std_2: 0.12 with rank: 56 | dif: 0.147 with rank: 59 | Hyper-parameters: skips: 30, winsize: 20, residual_threshold: 1.50

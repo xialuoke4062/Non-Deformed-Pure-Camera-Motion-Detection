@@ -1,0 +1,8 @@
+Combo 12: std_sum: 0.28 with rank: 18 | dif: 0.21 with rank: 77 | Hyper-parameters: skips: 10, winsize: 10, residual_threshold: 0.35
+Combo 102: std_sum: 0.30 with rank: 74 | dif: 0.22 with rank: 65 | Hyper-parameters: skips: 13, winsize: 16, residual_threshold: 0.80
+Combo 129: std_sum: 0.30 with rank: 69 | dif: 0.22 with rank: 68 | Hyper-parameters: skips: 16, winsize: 13, residual_threshold: 0.50
+Combo 190: std_sum: 0.30 with rank: 66 | dif: 0.22 with rank: 73 | Hyper-parameters: skips: 19, winsize: 16, residual_threshold: 0.60
+Combo 220: std_sum: 0.30 with rank: 78 | dif: 0.25 with rank: 36 | Hyper-parameters: skips: 10, winsize: 10, residual_threshold: 1.20
+Combo 224: std_sum: 0.29 with rank: 35 | dif: 0.25 with rank: 25 | Hyper-parameters: skips: 10, winsize: 10, residual_threshold: 1.30
+Combo 252: std_sum: 0.30 with rank: 77 | dif: 0.23 with rank: 56 | Hyper-parameters: skips: 13, winsize: 10, residual_threshold: 1.40
+Combo 296: std_sum: 0.29 with rank: 44 | dif: 0.24 with rank: 44 | Hyper-parameters: skips: 19, winsize: 10, residual_threshold: 1.30

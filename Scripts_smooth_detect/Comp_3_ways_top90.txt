@@ -1,0 +1,2 @@
+Combo 12: std_1: 0.13 with rank: 67 | std_2: 0.15 with rank: 20 | dif: 0.21 with rank: 77 | Hyper-parameters: skips: 10, winsize: 10, residual_threshold: 0.35
+Combo 190: std_1: 0.13 with rank: 83 | std_2: 0.17 with rank: 73 | dif: 0.22 with rank: 73 | Hyper-parameters: skips: 19, winsize: 16, residual_threshold: 0.60

@@ -1,0 +1,5 @@
+Combo 105: std_1: 0.20 with rank: 138 | std_2: 0.08 with rank: 31 | dif: 0.317 with rank: 0 | Hyper-parameters: skips: 40, winsize: 10, residual_threshold: 1.00
+Combo 100: std_1: 0.20 with rank: 143 | std_2: 0.05 with rank: 12 | dif: 0.314 with rank: 1 | Hyper-parameters: skips: 40, winsize: 10, residual_threshold: 0.75
+Combo 70: std_1: 0.20 with rank: 146 | std_2: 0.04 with rank: 3 | dif: 0.314 with rank: 2 | Hyper-parameters: skips: 30, winsize: 10, residual_threshold: 0.75
+Combo 130: std_1: 0.20 with rank: 137 | std_2: 0.04 with rank: 6 | dif: 0.304 with rank: 3 | Hyper-parameters: skips: 50, winsize: 10, residual_threshold: 0.75
+Combo 140: std_1: 0.18 with rank: 126 | std_2: 0.10 with rank: 39 | dif: 0.303 with rank: 4 | Hyper-parameters: skips: 50, winsize: 10, residual_threshold: 1.25
