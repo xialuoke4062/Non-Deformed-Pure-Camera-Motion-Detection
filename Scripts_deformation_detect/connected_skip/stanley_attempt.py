@@ -41,7 +41,7 @@ def check_cut(frame, video_path):
     high = np.where(ver_freq[:half_height] == max(ver_freq[:half_height]))[0][0]
     low = np.where(ver_freq[half_height:] == max(ver_freq[half_height:]))[0][0] + half_height
     if LRatio == 0 or RRatio == 0:
-        return -1, -1
+        return -1, -1, -1, -1
     # cur_gray[:, left] = 255
     # cur_gray[:, right] = 255
     # cur_gray[high] = 255
@@ -237,7 +237,7 @@ def generate(video_path):
                                 i_coords, j_coords = np.meshgrid(range(height), range(width), indexing='ij')
                                 valid_query_2D_locations = np.concatenate(
                                     [i_coords.reshape((-1, 1)), j_coords.reshape((-1, 1))], axis=1)
-                            checked = 1  # should change back to 1
+                            checked = 2  # should change back to 1
                         frame = frame[high_cut:low_cut, left_cut:right_cut, :]
                         caches.append(frame)
                         tq.update(1)
@@ -406,7 +406,7 @@ if __name__ == "__main__":
 
     """Video Loading Path"""
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    alpha = "B"
+    # alpha = "B"
     for elem in alpha:
         path_str = "/Users/xwang169/Downloads/videos/" + elem
         path_str = "/Users/apple/Desktop/Xingtong_2/www.gastrointestinalatlas.com/videos/" + elem
