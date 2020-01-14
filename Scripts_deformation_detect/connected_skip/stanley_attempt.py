@@ -237,7 +237,7 @@ def generate(video_path):
                                 i_coords, j_coords = np.meshgrid(range(height), range(width), indexing='ij')
                                 valid_query_2D_locations = np.concatenate(
                                     [i_coords.reshape((-1, 1)), j_coords.reshape((-1, 1))], axis=1)
-                            checked = 2  # should change back to 1
+                            checked = 1  # should change back to 1
                         frame = frame[high_cut:low_cut, left_cut:right_cut, :]
                         caches.append(frame)
                         tq.update(1)
@@ -406,7 +406,7 @@ if __name__ == "__main__":
 
     """Video Loading Path"""
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    # alpha = "B"
+    alpha = "EFGHIJKLMNOPQRSTUVWXYZ"
     for elem in alpha:
         path_str = "/Users/xwang169/Downloads/videos/" + elem
         path_str = "/Users/apple/Desktop/Xingtong_2/www.gastrointestinalatlas.com/videos/" + elem
