@@ -1,0 +1,990 @@
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnalCA5/0.mp4
+frames: 114.0, time: 2.00
+images: [51]
+points: [3457]
+ratios: [67.7843137254902]
+mean_img: 51.0
+mean_point: 3457.0
+mean_ratio: 67.7843137254902
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnalCA5/2.mp4
+frames: 111.0, time: 2.60
+images: [14, 98]
+points: [1389, 5488]
+ratios: [99.21428571428571, 56.0]
+mean_img: 56.0
+mean_point: 3438.5
+mean_ratio: 77.60714285714286
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AngioDisplasiaxc1/0.mp4
+frames: 367.0, time: 4.75
+images: [215, 30]
+points: [1903, 194]
+ratios: [8.851162790697675, 6.466666666666667]
+mean_img: 122.5
+mean_point: 1048.5
+mean_ratio: 7.658914728682171
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/1.mp4
+frames: 84.0, time: 0.95
+images: [10, 84]
+points: [162, 368]
+ratios: [16.2, 4.380952380952381]
+mean_img: 47.0
+mean_point: 265.0
+mean_ratio: 10.290476190476191
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/0.mp4
+frames: 54.0, time: 1.24
+images: [54]
+points: [263]
+ratios: [4.87037037037037]
+mean_img: 54.0
+mean_point: 263.0
+mean_ratio: 4.87037037037037
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/2.mp4
+frames: 23.0, time: 0.53
+images: [23]
+points: [253]
+ratios: [11.0]
+mean_img: 23.0
+mean_point: 253.0
+mean_ratio: 11.0
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/3.mp4
+frames: 19.0, time: 0.31
+images: [19]
+points: [189]
+ratios: [9.947368421052632]
+mean_img: 19.0
+mean_point: 189.0
+mean_ratio: 9.947368421052632
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/14.mp4
+frames: 74.0, time: 1.17
+images: [14]
+points: [138]
+ratios: [9.857142857142858]
+mean_img: 14.0
+mean_point: 138.0
+mean_ratio: 9.857142857142858
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/11.mp4
+frames: 70.0, time: 1.07
+images: [14]
+points: [168]
+ratios: [12.0]
+mean_img: 14.0
+mean_point: 168.0
+mean_ratio: 12.0
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/10.mp4
+frames: 57.0, time: 0.69
+images: [10]
+points: [205]
+ratios: [20.5]
+mean_img: 10.0
+mean_point: 205.0
+mean_ratio: 20.5
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/12.mp4
+frames: 51.0, time: 0.75
+images: [14, 38, 14]
+points: [78, 7, 208]
+ratios: [5.571428571428571, 0.18421052631578946, 14.857142857142858]
+mean_img: 22.0
+mean_point: 97.66666666666667
+mean_ratio: 6.870927318295739
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AngioDisplasiaxc1/2.mp4
+frames: 770.0, time: 8.65
+images: [524, 31, 42]
+points: [2306, 641, 929]
+ratios: [4.400763358778626, 20.677419354838708, 22.11904761904762]
+mean_img: 199.0
+mean_point: 1292.0
+mean_ratio: 15.732410110888319
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/13.mp4
+frames: 137.0, time: 2.03
+images: [24, 40, 10]
+points: [5, 13, 198]
+ratios: [0.20833333333333334, 0.325, 19.8]
+mean_img: 24.666666666666668
+mean_point: 72.0
+mean_ratio: 6.777777777777779
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/8.mp4
+frames: 38.0, time: 0.33
+images: [10]
+points: [209]
+ratios: [20.9]
+mean_img: 10.0
+mean_point: 209.0
+mean_ratio: 20.9
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Angiodysplasia_Myeloma9/0.mp4
+frames: 1011.0, time: 14.48
+images: [39, 68, 84, 103, 41, 19, 38, 36, 174, 66, 17]
+points: [1574, 3169, 2876, 3945, 1553, 767, 1836, 1952, 4733, 2895, 925]
+ratios: [40.35897435897436, 46.60294117647059, 34.23809523809524, 38.300970873786405, 37.8780487804878, 40.36842105263158, 48.31578947368421, 54.22222222222222, 27.201149425287355, 43.86363636363637, 54.411764705882355]
+mean_img: 62.27272727272727
+mean_point: 2384.090909090909
+mean_ratio: 42.342001242832595
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/0.mp4
+frames: 414.0, time: 9.35
+images: [381]
+points: [7413]
+ratios: [19.456692913385826]
+mean_img: 381.0
+mean_point: 7413.0
+mean_ratio: 19.456692913385826
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Ascaris1/9.mp4
+frames: 52.0, time: 1.04
+images: [10]
+points: [202]
+ratios: [20.2]
+mean_img: 10.0
+mean_point: 202.0
+mean_ratio: 20.2
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Angiodysplasia_Myeloma9/2.mp4
+frames: 63.0, time: 0.85
+images: [51]
+points: [1415]
+ratios: [27.745098039215687]
+mean_img: 51.0
+mean_point: 1415.0
+mean_ratio: 27.745098039215687
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric1/7.mp4
+frames: 55.0, time: 0.66
+images: [10]
+points: [348]
+ratios: [34.8]
+mean_img: 10.0
+mean_point: 348.0
+mean_ratio: 34.8
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago7/22.mp4
+frames: 245.0, time: 3.94
+images: [10, 17, 24, 56]
+points: [459, 17, 626, 1375]
+ratios: [45.9, 1.0, 26.083333333333332, 24.553571428571427]
+mean_img: 26.75
+mean_point: 619.25
+mean_ratio: 24.38422619047619
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric1/6.mp4
+frames: 203.0, time: 4.40
+images: [27, 22, 21, 13]
+points: [1149, 1230, 703, 631]
+ratios: [42.55555555555556, 55.90909090909091, 33.476190476190474, 48.53846153846154]
+mean_img: 20.75
+mean_point: 928.25
+mean_ratio: 45.11982461982462
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago7/23.mp4
+frames: 84.0, time: 1.70
+images: [44]
+points: [607]
+ratios: [13.795454545454545]
+mean_img: 44.0
+mean_point: 607.0
+mean_ratio: 13.795454545454545
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric1/4.mp4
+frames: 72.0, time: 1.67
+images: [14, 28]
+points: [195, 470]
+ratios: [13.928571428571429, 16.785714285714285]
+mean_img: 21.0
+mean_point: 332.5
+mean_ratio: 15.357142857142858
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago7/21.mp4
+frames: 102.0, time: 2.25
+images: [37]
+points: [2232]
+ratios: [60.32432432432432]
+mean_img: 37.0
+mean_point: 2232.0
+mean_ratio: 60.32432432432432
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AkalasiaRelapsing11/0.mp4
+frames: 909.0, time: 15.72
+images: [187, 10, 12, 151, 74, 140, 28, 14]
+points: [6502, 407, 841, 4116, 1024, 2601, 1234, 824]
+ratios: [34.77005347593583, 40.7, 70.08333333333333, 27.258278145695364, 13.837837837837839, 18.57857142857143, 44.07142857142857, 58.857142857142854]
+mean_img: 77.0
+mean_point: 2193.625
+mean_ratio: 38.51958070624315
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/2.mp4
+frames: 561.0, time: 14.61
+images: [507]
+points: [7210]
+ratios: [14.220907297830374]
+mean_img: 507.0
+mean_point: 7210.0
+mean_ratio: 14.220907297830374
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/3.mp4
+frames: 42.0, time: 0.82
+images: [42]
+points: [738]
+ratios: [17.571428571428573]
+mean_img: 42.0
+mean_point: 738.0
+mean_ratio: 17.571428571428573
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation4/1.mp4
+frames: 171.0, time: 2.05
+images: [57]
+points: [1206]
+ratios: [21.157894736842106]
+mean_img: 57.0
+mean_point: 1206.0
+mean_ratio: 21.157894736842106
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago7/20.mp4
+frames: 487.0, time: 6.64
+images: [83, 19, 62, 37, 30, 58, 10]
+points: [3705, 840, 1913, 918, 1057, 1869, 602]
+ratios: [44.63855421686747, 44.21052631578947, 30.85483870967742, 24.81081081081081, 35.233333333333334, 32.224137931034484, 60.2]
+mean_img: 42.714285714285715
+mean_point: 1557.7142857142858
+mean_ratio: 38.881743045358995
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/11.mp4
+frames: 52.0, time: 1.35
+images: [50]
+points: [2002]
+ratios: [40.04]
+mean_img: 50.0
+mean_point: 2002.0
+mean_ratio: 40.04
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation2/6.mp4
+frames: 49.0, time: 1.22
+images: [18]
+points: [793]
+ratios: [44.05555555555556]
+mean_img: 18.0
+mean_point: 793.0
+mean_ratio: 44.05555555555556
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/10.mp4
+frames: 54.0, time: 1.26
+images: [35]
+points: [817]
+ratios: [23.34285714285714]
+mean_img: 35.0
+mean_point: 817.0
+mean_ratio: 23.34285714285714
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation4/0.mp4
+frames: 230.0, time: 3.52
+images: [31, 33, 18]
+points: [1243, 791, 381]
+ratios: [40.096774193548384, 23.96969696969697, 21.166666666666668]
+mean_img: 27.333333333333332
+mean_point: 805.0
+mean_ratio: 28.411045943304007
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcuteGastr3/0.mp4
+frames: 701.0, time: 11.54
+images: [16, 13, 29, 52, 10, 29, 26, 27, 18, 52, 10, 143, 30]
+points: [628, 991, 1409, 2005, 0, 1328, 667, 1055, 994, 2313, 7, 2510, 1725]
+ratios: [39.25, 76.23076923076923, 48.58620689655172, 38.55769230769231, 0.0, 45.793103448275865, 25.653846153846153, 39.074074074074076, 55.22222222222222, 44.48076923076923, 0.7, 17.552447552447553, 57.5]
+mean_img: 35.0
+mean_point: 1202.4615384615386
+mean_ratio: 37.58470239358833
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation2/4.mp4
+frames: 711.0, time: 12.97
+images: [163, 11, 62, 45, 73, 79, 49]
+points: [6346, 267, 2938, 1078, 3106, 4344, 3953]
+ratios: [38.93251533742331, 24.272727272727273, 47.38709677419355, 23.955555555555556, 42.54794520547945, 54.9873417721519, 80.6734693877551]
+mean_img: 68.85714285714286
+mean_point: 3147.4285714285716
+mean_ratio: 44.679521615040876
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation4/2.mp4
+frames: 565.0, time: 12.01
+images: [478, 28]
+points: [12276, 1518]
+ratios: [25.682008368200837, 54.214285714285715]
+mean_img: 253.0
+mean_point: 6897.0
+mean_ratio: 39.948147041243274
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/12.mp4
+frames: 673.0, time: 14.89
+images: [429, 70, 35]
+points: [15372, 3144, 1574]
+ratios: [35.83216783216783, 44.91428571428571, 44.97142857142857]
+mean_img: 178.0
+mean_point: 6696.666666666667
+mean_ratio: 41.9059607059607
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/13.mp4
+frames: 76.0, time: 1.11
+images: [26, 26]
+points: [1973, 926]
+ratios: [75.88461538461539, 35.61538461538461]
+mean_img: 26.0
+mean_point: 1449.5
+mean_ratio: 55.75
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric3/5.mp4
+frames: 36.0, time: 2.02
+images: [11, 20]
+points: [823, 347]
+ratios: [74.81818181818181, 17.35]
+mean_img: 15.5
+mean_point: 585.0
+mean_ratio: 46.084090909090904
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/8.mp4
+frames: 53.0, time: 3.18
+images: [35]
+points: [1970]
+ratios: [56.285714285714285]
+mean_img: 35.0
+mean_point: 1970.0
+mean_ratio: 56.285714285714285
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ActiveMallory5/16.mp4
+frames: 206.0, time: 8.68
+images: [66, 17, 83]
+points: [2386, 3, 3360]
+ratios: [36.15151515151515, 0.17647058823529413, 40.48192771084337]
+mean_img: 55.333333333333336
+mean_point: 1916.3333333333333
+mean_ratio: 25.603304483531275
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ActiveMallory5/14.mp4
+frames: 66.0, time: 2.62
+images: [57]
+points: [3217]
+ratios: [56.43859649122807]
+mean_img: 57.0
+mean_point: 3217.0
+mean_ratio: 56.43859649122807
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ActiveMallory5/15.mp4
+frames: 100.0, time: 1.74
+images: [28, 20]
+points: [991, 918]
+ratios: [35.392857142857146, 45.9]
+mean_img: 24.0
+mean_point: 954.5
+mean_ratio: 40.64642857142857
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ActiveMallory5/11.mp4
+frames: 30.0, time: 0.66
+images: [28]
+points: [843]
+ratios: [30.107142857142858]
+mean_img: 28.0
+mean_point: 843.0
+mean_ratio: 30.107142857142858
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric3/1.mp4
+frames: 327.0, time: 9.21
+images: [260, 14]
+points: [15457, 511]
+ratios: [59.45, 36.5]
+mean_img: 137.0
+mean_point: 7984.0
+mean_ratio: 47.975
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnastomosisCaGastric3/0.mp4
+frames: 62.0, time: 0.85
+images: [11]
+points: [120]
+ratios: [10.909090909090908]
+mean_img: 11.0
+mean_point: 120.0
+mean_ratio: 10.909090909090908
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ActiveMallory5/10.mp4
+frames: 42.0, time: 1.60
+images: [41]
+points: [2172]
+ratios: [52.97560975609756]
+mean_img: 41.0
+mean_point: 2172.0
+mean_ratio: 52.97560975609756
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation4/3.mp4
+frames: 877.0, time: 24.37
+images: [494, 182, 14, 35]
+points: [13908, 5076, 437, 2039]
+ratios: [28.153846153846153, 27.89010989010989, 31.214285714285715, 58.25714285714286]
+mean_img: 181.25
+mean_point: 5365.0
+mean_ratio: 36.378846153846155
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation4/11.mp4
+frames: 167.0, time: 2.65
+images: [67, 15, 13]
+points: [1916, 446, 401]
+ratios: [28.597014925373134, 29.733333333333334, 30.846153846153847]
+mean_img: 31.666666666666668
+mean_point: 921.0
+mean_ratio: 29.725500701620103
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago6/9.mp4
+frames: 1603.0, time: 23.83
+images: [233, 697, 92, 61, 244, 12]
+points: [10639, 20708, 3038, 3479, 7949, 728]
+ratios: [45.66094420600859, 29.710186513629843, 33.02173913043478, 57.032786885245905, 32.57786885245902, 60.666666666666664]
+mean_img: 223.16666666666666
+mean_point: 7756.833333333333
+mean_ratio: 43.11169870907414
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago2/10.mp4
+frames: 344.0, time: 10.09
+images: [71, 96, 50, 40, 67, 28]
+points: [3723, 1911, 887, 2205, 2973, 646]
+ratios: [52.436619718309856, 19.90625, 17.74, 55.125, 44.37313432835821, 23.071428571428573]
+mean_img: 58.666666666666664
+mean_point: 2057.5
+mean_ratio: 35.44207210301611
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago2/12.mp4
+frames: 24.0, time: 0.62
+images: [16]
+points: [245]
+ratios: [15.3125]
+mean_img: 16.0
+mean_point: 245.0
+mean_ratio: 15.3125
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago2/13.mp4
+frames: 398.0, time: 9.16
+images: [286, 41, 21]
+points: [4600, 782, 653]
+ratios: [16.083916083916083, 19.073170731707318, 31.095238095238095]
+mean_img: 116.0
+mean_point: 2011.6666666666667
+mean_ratio: 22.084108303620496
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AkalasiaRelapsing13/0.mp4
+frames: 600.0, time: 24.47
+images: [19, 39, 25, 14, 46, 97, 26, 320, 30]
+points: [1194, 1500, 1122, 16, 1540, 3402, 878, 4495, 514]
+ratios: [62.8421052631579, 38.46153846153846, 44.88, 1.1428571428571428, 33.47826086956522, 35.07216494845361, 33.76923076923077, 14.046875, 17.133333333333333]
+mean_img: 68.44444444444444
+mean_point: 1629.0
+mean_ratio: 31.202929532015155
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago2/8.mp4
+frames: 278.0, time: 7.70
+images: [173, 63]
+points: [3539, 681]
+ratios: [20.45664739884393, 10.80952380952381]
+mean_img: 118.0
+mean_point: 2110.0
+mean_ratio: 15.63308560418387
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnalCA8/0.mp4
+frames: 666.0, time: 22.23
+images: [452, 35, 13, 10, 11]
+points: [27787, 2950, 572, 735, 633]
+ratios: [61.47566371681416, 84.28571428571429, 44.0, 73.5, 57.54545454545455]
+mean_img: 104.2
+mean_point: 6535.4
+mean_ratio: 64.1613665095966
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/apendice/0.mp4
+frames: 293.0, time: 6.76
+images: [293]
+points: [1934]
+ratios: [6.600682593856655]
+mean_img: 293.0
+mean_point: 1934.0
+mean_ratio: 6.600682593856655
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago2/9.mp4
+frames: 792.0, time: 29.16
+images: [633, 24, 24, 37, 17, 33]
+points: [10495, 1226, 904, 2625, 593, 1688]
+ratios: [16.579778830963665, 51.083333333333336, 37.666666666666664, 70.94594594594595, 34.88235294117647, 51.15151515151515]
+mean_img: 128.0
+mean_point: 2921.8333333333335
+mean_ratio: 43.718265478266865
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ApcProctitisPostd1/7.mp4
+frames: 657.0, time: 15.41
+images: [222, 240, 17, 14]
+points: [6600, 6640, 723, 608]
+ratios: [29.72972972972973, 27.666666666666668, 42.529411764705884, 43.42857142857143]
+mean_img: 123.25
+mean_point: 3642.75
+mean_ratio: 35.83859489741843
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/argonpoliposis2/0.mp4
+frames: 251.0, time: 8.28
+images: [151, 26, 27, 12, 51, 22, 14, 24]
+points: [2163, 1045, 1054, 3, 1399, 10, 896, 721]
+ratios: [14.324503311258278, 40.19230769230769, 39.03703703703704, 0.25, 27.431372549019606, 0.45454545454545453, 64.0, 30.041666666666668]
+mean_img: 40.875
+mean_point: 911.375
+mean_ratio: 26.966429088854344
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Agujerogrande/0.mp4
+frames: 239.0, time: 2.41
+images: [35, 69]
+points: [639, 578]
+ratios: [18.257142857142856, 8.376811594202898]
+mean_img: 52.0
+mean_point: 608.5
+mean_ratio: 13.316977225672877
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation8/12.mp4
+frames: 28.0, time: 0.74
+images: [15]
+points: [980]
+ratios: [65.33333333333333]
+mean_img: 15.0
+mean_point: 980.0
+mean_ratio: 65.33333333333333
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation8/13.mp4
+frames: 14.0, time: 0.55
+images: [8]
+points: [91]
+ratios: [11.375]
+mean_img: 8.0
+mean_point: 91.0
+mean_ratio: 11.375
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AtypicalCandidiasis3/1.mp4
+frames: 567.0, time: 7.89
+images: [120, 161, 116]
+points: [2516, 3313, 2129]
+ratios: [20.966666666666665, 20.577639751552795, 18.353448275862068]
+mean_img: 132.33333333333334
+mean_point: 2652.6666666666665
+mean_ratio: 19.965918231360508
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation8/8.mp4
+frames: 229.0, time: 5.03
+images: [109, 72]
+points: [6927, 2817]
+ratios: [63.55045871559633, 39.125]
+mean_img: 90.5
+mean_point: 4872.0
+mean_ratio: 51.33772935779817
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation8/9.mp4
+frames: 297.0, time: 5.25
+images: [245]
+points: [12879]
+ratios: [52.56734693877551]
+mean_img: 245.0
+mean_point: 12879.0
+mean_ratio: 52.56734693877551
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AtypicalCandidiasis3/0.mp4
+frames: 1449.0, time: 14.31
+images: [53, 185, 27, 53, 11, 19, 92, 47, 26, 53, 10, 89, 31, 34, 41, 56, 29]
+points: [1576, 5199, 1036, 1010, 235, 22, 2755, 1164, 796, 1236, 9, 2167, 577, 518, 931, 1655, 976]
+ratios: [29.735849056603772, 28.102702702702704, 38.370370370370374, 19.056603773584907, 21.363636363636363, 1.1578947368421053, 29.945652173913043, 24.76595744680851, 30.615384615384617, 23.32075471698113, 0.9, 24.348314606741575, 18.612903225806452, 15.235294117647058, 22.70731707317073, 29.553571428571427, 33.6551724137931]
+mean_img: 50.35294117647059
+mean_point: 1286.0
+mean_ratio: 23.026316401326934
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AchalasiaResidualmeat4/0.mp4
+frames: 1135.0, time: 11.75
+images: [78, 12, 92, 50, 134, 284, 153, 47]
+points: [3020, 538, 2500, 1922, 2376, 2249, 2662, 1134]
+ratios: [38.717948717948715, 44.833333333333336, 27.17391304347826, 38.44, 17.73134328358209, 7.919014084507042, 17.398692810457515, 24.127659574468087]
+mean_img: 106.25
+mean_point: 2050.125
+mean_ratio: 27.042738105971875
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/argoncapaliativ3/0.mp4
+frames: 273.0, time: 3.56
+images: [273]
+points: [1458]
+ratios: [5.34065934065934]
+mean_img: 273.0
+mean_point: 1458.0
+mean_ratio: 5.34065934065934
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Angiodysplasia_Myeloma11/0.mp4
+frames: 1369.0, time: 16.67
+images: [315, 541, 84, 11, 175]
+points: [8590, 9125, 1816, 555, 5818]
+ratios: [27.26984126984127, 16.866913123844732, 21.61904761904762, 50.45454545454545, 33.245714285714286]
+mean_img: 225.2
+mean_point: 5180.8
+mean_ratio: 29.891212350598675
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation6/1.mp4
+frames: 2040.0, time: 25.15
+images: [15, 22, 35, 101, 22, 37, 11, 64, 11, 65, 33, 12, 119, 30, 72, 17, 10, 33, 318, 12, 118, 24]
+points: [545, 538, 1549, 5951, 1724, 2030, 203, 2543, 602, 2805, 1980, 292, 6001, 1097, 3377, 972, 639, 1075, 16176, 686, 3345, 954]
+ratios: [36.333333333333336, 24.454545454545453, 44.25714285714286, 58.92079207920792, 78.36363636363636, 54.86486486486486, 18.454545454545453, 39.734375, 54.72727272727273, 43.15384615384615, 60.0, 24.333333333333332, 50.42857142857143, 36.56666666666667, 46.90277777777778, 57.1764705882353, 63.9, 32.57575757575758, 50.867924528301884, 57.166666666666664, 28.347457627118644, 39.75]
+mean_img: 53.68181818181818
+mean_point: 2503.818181818182
+mean_ratio: 45.512726385492016
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Angiodysplasia_Myeloma16/0.mp4
+frames: 1009.0, time: 9.52
+images: [876, 33]
+points: [4825, 364]
+ratios: [5.507990867579909, 11.030303030303031]
+mean_img: 454.5
+mean_point: 2594.5
+mean_ratio: 8.26914694894147
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation6/0.mp4
+frames: 134.0, time: 2.28
+images: [82, 22]
+points: [3705, 1187]
+ratios: [45.18292682926829, 53.95454545454545]
+mean_img: 52.0
+mean_point: 2446.0
+mean_ratio: 49.56873614190687
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation6/2.mp4
+frames: 155.0, time: 2.20
+images: [122]
+points: [3625]
+ratios: [29.71311475409836]
+mean_img: 122.0
+mean_point: 3625.0
+mean_ratio: 29.71311475409836
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation6/3.mp4
+frames: 57.0, time: 1.30
+images: [37]
+points: [2065]
+ratios: [55.810810810810814]
+mean_img: 37.0
+mean_point: 2065.0
+mean_ratio: 55.810810810810814
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation1/7.mp4
+frames: 344.0, time: 4.13
+images: [100, 24, 14, 28, 25, 30]
+points: [3294, 1067, 627, 757, 1360, 1311]
+ratios: [32.94, 44.458333333333336, 44.785714285714285, 27.035714285714285, 54.4, 43.7]
+mean_img: 36.833333333333336
+mean_point: 1402.6666666666667
+mean_ratio: 41.21996031746031
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/argoncapaliativ4/0.mp4
+frames: 641.0, time: 9.17
+images: [47, 525]
+points: [1327, 14670]
+ratios: [28.23404255319149, 27.942857142857143]
+mean_img: 286.0
+mean_point: 7998.5
+mean_ratio: 28.088449848024318
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation1/6.mp4
+frames: 319.0, time: 3.82
+images: [30, 102, 30, 28]
+points: [1079, 2611, 1122, 1316]
+ratios: [35.96666666666667, 25.598039215686274, 37.4, 47.0]
+mean_img: 47.5
+mean_point: 1532.0
+mean_ratio: 36.491176470588236
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation1/4.mp4
+frames: 367.0, time: 5.79
+images: [151, 14, 13, 62]
+points: [3977, 936, 608, 2461]
+ratios: [26.337748344370862, 66.85714285714286, 46.76923076923077, 39.693548387096776]
+mean_img: 60.0
+mean_point: 1995.5
+mean_ratio: 44.914417589460314
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AVMalformation1/5.mp4
+frames: 48.0, time: 0.56
+images: [15]
+points: [148]
+ratios: [9.866666666666667]
+mean_img: 15.0
+mean_point: 148.0
+mean_ratio: 9.866666666666667
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AtypicalCandidiasis4/1.mp4
+frames: 780.0, time: 13.82
+images: [257, 90, 128, 170, 19, 11]
+points: [10669, 2898, 3603, 4439, 845, 408]
+ratios: [41.5136186770428, 32.2, 28.1484375, 26.111764705882354, 44.473684210526315, 37.09090909090909]
+mean_img: 112.5
+mean_point: 3810.3333333333335
+mean_ratio: 34.92306903072676
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/ApcProctitisPostd2/0.mp4
+frames: 4155.0, time: 144.16
+images: [661, 3148]
+points: [8786, 128609]
+ratios: [13.291981845688351, 40.854193138500634]
+mean_img: 1904.5
+mean_point: 68697.5
+mean_ratio: 27.073087492094494
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/achalasiadilatation12/0.mp4
+frames: 443.0, time: 3.38
+images: [28]
+points: [514]
+ratios: [18.357142857142858]
+mean_img: 28.0
+mean_point: 514.0
+mean_ratio: 18.357142857142858
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AtypicalCandidiasis4/0.mp4
+frames: 879.0, time: 12.51
+images: [27, 33, 10, 355, 31, 69, 73, 72]
+points: [1936, 847, 491, 15832, 1885, 1349, 4854, 1945]
+ratios: [71.70370370370371, 25.666666666666668, 49.1, 44.59718309859155, 60.806451612903224, 19.55072463768116, 66.4931506849315, 27.01388888888889]
+mean_img: 83.75
+mean_point: 3642.375
+mean_ratio: 45.616471161670844
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/argoncapaliativ7/0.mp4
+frames: 553.0, time: 6.46
+images: [477]
+points: [5267]
+ratios: [11.041928721174004]
+mean_img: 477.0
+mean_point: 5267.0
+mean_ratio: 11.041928721174004
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcuteGastritisxz3/0.mp4
+frames: 526.0, time: 13.18
+images: [354, 135, 26]
+points: [18601, 5901, 1549]
+ratios: [52.545197740113, 43.71111111111111, 59.57692307692308]
+mean_img: 171.66666666666666
+mean_point: 8683.666666666666
+mean_ratio: 51.94441064271573
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/Angiodysplasia_Myeloma15/0.mp4
+frames: 1023.0, time: 12.02
+images: [348, 33, 126, 119, 100]
+points: [9375, 1346, 3384, 3204, 3551]
+ratios: [26.939655172413794, 40.78787878787879, 26.857142857142858, 26.92436974789916, 35.51]
+mean_img: 145.2
+mean_point: 4172.0
+mean_ratio: 31.403809313066922
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/argon11/0.mp4
+frames: 567.0, time: 4.17
+images: [24, 198, 30, 23, 33, 48, 13, 10, 35, 25, 22, 10]
+points: [1216, 3837, 1428, 1175, 1009, 978, 512, 354, 904, 1203, 70, 659]
+ratios: [50.666666666666664, 19.37878787878788, 47.6, 51.08695652173913, 30.575757575757574, 20.375, 39.38461538461539, 35.4, 25.82857142857143, 48.12, 3.1818181818181817, 65.9]
+mean_img: 39.25
+mean_point: 1112.0833333333333
+mean_ratio: 36.45818113649636
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/achalasiadilatation8/0.mp4
+frames: 308.0, time: 8.88
+images: [287]
+points: [12208]
+ratios: [42.53658536585366]
+mean_img: 287.0
+mean_point: 12208.0
+mean_ratio: 42.53658536585366
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect6/1.mp4
+frames: 6777.0, time: 177.82
+images: [421, 5828, 26]
+points: [6041, 236133, 962]
+ratios: [14.34916864608076, 40.516986959505836, 37.0]
+mean_img: 2091.6666666666665
+mean_point: 81045.33333333333
+mean_ratio: 30.622051868528867
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/7.mp4
+frames: 448.0, time: 6.94
+images: [186, 57, 19, 50, 66, 10, 31]
+points: [2680, 518, 860, 1486, 1468, 271, 455]
+ratios: [14.408602150537634, 9.087719298245615, 45.26315789473684, 29.72, 22.242424242424242, 27.1, 14.67741935483871]
+mean_img: 59.857142857142854
+mean_point: 1105.4285714285713
+mean_ratio: 23.214188991540436
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/6.mp4
+frames: 37.0, time: 0.93
+images: [11]
+points: [206]
+ratios: [18.727272727272727]
+mean_img: 11.0
+mean_point: 206.0
+mean_ratio: 18.727272727272727
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/4.mp4
+frames: 104.0, time: 1.29
+images: [83]
+points: [1696]
+ratios: [20.433734939759034]
+mean_img: 83.0
+mean_point: 1696.0
+mean_ratio: 20.433734939759034
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/5.mp4
+frames: 32.0, time: 0.37
+images: [12]
+points: [228]
+ratios: [19.0]
+mean_img: 12.0
+mean_point: 228.0
+mean_ratio: 19.0
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect6/0.mp4
+frames: 223.0, time: 10.63
+images: [223]
+points: [4658]
+ratios: [20.887892376681613]
+mean_img: 223.0
+mean_point: 4658.0
+mean_ratio: 20.887892376681613
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/1.mp4
+frames: 608.0, time: 15.46
+images: [529]
+points: [13928]
+ratios: [26.328922495274103]
+mean_img: 529.0
+mean_point: 13928.0
+mean_ratio: 26.328922495274103
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect9/4.mp4
+frames: 564.0, time: 25.88
+images: [10, 564]
+points: [799, 10285]
+ratios: [79.9, 18.23581560283688]
+mean_img: 287.0
+mean_point: 5542.0
+mean_ratio: 49.06790780141844
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/0.mp4
+frames: 369.0, time: 20.78
+images: [369]
+points: [6048]
+ratios: [16.390243902439025]
+mean_img: 369.0
+mean_point: 6048.0
+mean_ratio: 16.390243902439025
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/2.mp4
+frames: 315.0, time: 7.56
+images: [183, 45, 38]
+points: [7308, 1039, 2578]
+ratios: [39.9344262295082, 23.08888888888889, 67.84210526315789]
+mean_img: 88.66666666666667
+mean_point: 3641.6666666666665
+mean_ratio: 43.621806793851654
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/3.mp4
+frames: 34.0, time: 0.42
+images: [21]
+points: [587]
+ratios: [27.952380952380953]
+mean_img: 21.0
+mean_point: 587.0
+mean_ratio: 27.952380952380953
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect6/2.mp4
+frames: 1503.0, time: 51.88
+images: [1464]
+points: [43885]
+ratios: [29.976092896174862]
+mean_img: 1464.0
+mean_point: 43885.0
+mean_ratio: 29.976092896174862
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/8.mp4
+frames: 933.0, time: 19.42
+images: [13, 525, 24, 113, 89]
+points: [0, 10334, 829, 684, 3521]
+ratios: [0.0, 19.683809523809522, 34.541666666666664, 6.053097345132743, 39.561797752808985]
+mean_img: 152.8
+mean_point: 3073.6
+mean_ratio: 19.968074257683583
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/achalasiadilatation7/0.mp4
+frames: 368.0, time: 5.76
+images: [310, 19]
+points: [11571, 477]
+ratios: [37.325806451612905, 25.105263157894736]
+mean_img: 164.5
+mean_point: 6024.0
+mean_ratio: 31.215534804753823
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcalasiaCancerEsofago8/9.mp4
+frames: 21.0, time: 0.58
+images: [12]
+points: [516]
+ratios: [43.0]
+mean_img: 12.0
+mean_point: 516.0
+mean_ratio: 43.0
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AnalFissure2/0.mp4
+frames: 722.0, time: 7.48
+images: [189, 16, 261, 16, 36, 76, 17]
+points: [8555, 542, 12223, 1189, 2160, 1883, 747]
+ratios: [45.264550264550266, 33.875, 46.83141762452107, 74.3125, 60.0, 24.776315789473685, 43.94117647058823]
+mean_img: 87.28571428571429
+mean_point: 3899.8571428571427
+mean_ratio: 47.0001371641619
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect9/5.mp4
+frames: 1933.0, time: 63.83
+images: [1931]
+points: [15591]
+ratios: [8.07405489383739]
+mean_img: 1931.0
+mean_point: 15591.0
+mean_ratio: 8.07405489383739
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AlfombraPolipect9/1.mp4
+frames: 90.0, time: 1.81
+images: [90]
+points: [1225]
+ratios: [13.61111111111111]
+mean_img: 90.0
+mean_point: 1225.0
+mean_ratio: 13.61111111111111
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcuteGastritisxz5/0.mp4
+frames: 628.0, time: 15.16
+images: [13, 440, 18, 34, 41]
+points: [1295, 29384, 918, 2295, 2176]
+ratios: [99.61538461538461, 66.78181818181818, 51.0, 67.5, 53.073170731707314]
+mean_img: 109.2
+mean_point: 7213.6
+mean_ratio: 67.59407470578202
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AKchalasia5/0.mp4
+frames: 240.0, time: 1.43
+images: [35, 34]
+points: [959, 899]
+ratios: [27.4, 26.441176470588236]
+mean_img: 34.5
+mean_point: 929.0
+mean_ratio: 26.92058823529412
+
+video_path: /Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A/AcuteGastritisxz2/0.mp4
+frames: 428.0, time: 9.84
+images: [55, 103, 44, 127, 61]
+points: [3863, 5342, 3187, 8191, 4323]
+ratios: [70.23636363636363, 51.86407766990291, 72.43181818181819, 64.49606299212599, 70.8688524590164]
+mean_img: 78.0
+mean_point: 4981.2
+mean_ratio: 65.97943498784542
+

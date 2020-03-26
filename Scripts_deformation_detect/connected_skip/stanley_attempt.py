@@ -157,6 +157,8 @@ def calc_optical_flow(prev_frame, frame):
     hsv[..., 2] = cv2.normalize(mag, None, 0, 255, cv2.NORM_MINMAX)
     flow_display = cv2.cvtColor(hsv, cv2.COLOR_HSV2BGR)
     mean_flow = np.mean(flow_display)
+    if mean_flow >= 100:
+        mean_flow = 100
     return flow, opt_flow, mean_flow
 
 def generate(video_path):
@@ -261,7 +263,7 @@ def generate(video_path):
                     Run RANSAC Alrogithm
                     Calculate Inlier ratio
                 """
-                if mean_flow <= 15:
+                if mean_flow <= 25:
                     ratio = 0
                 else:
                     try:
@@ -283,7 +285,9 @@ def generate(video_path):
                 frame_index = int(video_fp.get(cv2.CAP_PROP_POS_FRAMES))
                 tq.set_postfix_str('I_T_ratio={:.5f}, frame={}, video_name={}'
                                    .format(ratio, frame_index, video_path.name[:-4]))
-
+                ratiooooo = ratio  # Will be deleted
+                ratio *= mean_flow  # Will be deleted
+                ratio_threshold = 0.1  # Will be deleted
                 if state == "searching":
                     tq.set_description("Status: searching")
                     if ratio >= ratio_threshold:
@@ -301,6 +305,24 @@ def generate(video_path):
                     else:
                         state = "searching"
                 elif state == "warming3":
+                    tq.set_description("Status: warming2")
+                    if ratio >= ratio_threshold:
+                        state = "warming4"
+                    else:
+                        state = "searching"
+                elif state == "warming4":
+                    tq.set_description("Status: warming2")
+                    if ratio >= ratio_threshold:
+                        state = "warming5"
+                    else:
+                        state = "searching"
+                elif state == "warming5":
+                    tq.set_description("Status: warming2")
+                    if ratio >= ratio_threshold:
+                        state = "warming6"
+                    else:
+                        state = "searching"
+                elif state == "warming6":
                     tq.set_description("Status: warming3")
                     if ratio >= ratio_threshold:
                         recording_imgs.extend(caches)  # Could get problematic
@@ -340,7 +362,7 @@ def generate(video_path):
                             recording_imgs.append(holding_imgs[k])
                         holding_imgs = []
                         state = "recording"
-                ratios.append(ratio)
+                ratios.append(ratiooooo)
                 tq.update(1)
                 # print(frame_index, ratio)
                 # if frame_index == 80: break
@@ -361,8 +383,8 @@ def generate(video_path):
                     Top is Time in video (seconds), calculated by (Frame Number / Frame Rate)
             """
             plt.figure()
-            plt.plot(np.arange(len(ratios)), ratios)
-            plt.plot(np.arange(len(means)), means)
+            plt.plot(np.arange(len(ratios)), [a*b for a,b in zip(ratios, means)])
+            # plt.plot(np.arange(len(means)), means)
             ax1 = plt.gca()
             ax1.set_xlabel(r"Frame Number")
             ax2 = ax1.twiny()
@@ -406,9 +428,9 @@ if __name__ == "__main__":
 
     """Video Loading Path"""
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    alpha = "EFGHIJKLMNOPQRSTUVWXYZ"
+    alpha = "B"
     for elem in alpha:
-        path_str = "/Users/xwang169/Downloads/videos/" + elem
+        # path_str = "/Users/xwang169/Downloads/videos/" + elem
         path_str = "/Users/apple/Desktop/Xingtong_2/www.gastrointestinalatlas.com/videos/" + elem
         video_root = Path(path_str)
         video_path_list = list(video_root.glob("*.mpg"))

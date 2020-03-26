@@ -1,0 +1,1 @@
+If threshold = 70, then good: 11, bad: 76, total: 87
