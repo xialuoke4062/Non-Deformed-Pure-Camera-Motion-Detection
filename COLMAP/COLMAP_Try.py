@@ -23,22 +23,23 @@ def colmap_generator(video_path):
     start_time = time.time()
 
     frame_path = Path(str(video_path)[:-4])
+    vidcap = cv2.VideoCapture(str(video_path))
     if not frame_path.exists():
         frame_path.mkdir()
+        ### Collecting Frames ###
+        success, image = vidcap.read()
+        count = 0
+        while success:
+            cv2.imwrite(str(frame_path / "frame{}.jpg".format(count)), image)  # save frame as JPEG file
+            success, image = vidcap.read()
+            count += 1
+    else:
+        return
 
     colmap_path = Path(str(video_path)[:-4] + "COLMAP")
-    if colmap_path.exists():
-        shutil.rmtree(colmap_path)
-    colmap_path.mkdir()
-    
-    ### Collecting Frames ###
-    vidcap = cv2.VideoCapture(str(video_path))
-    success, image = vidcap.read()
-    count = 0
-    while success:
-        cv2.imwrite(str(frame_path / "frame{}.jpg".format(count)), image)  # save frame as JPEG file
-        success, image = vidcap.read()
-        count += 1
+    if not colmap_path.exists():
+        # shutil.rmtree(colmap_path)
+        colmap_path.mkdir()
     
     ### COLMAP ###
     colmap_alg_path = "/Users/apple/Downloads/COLMAP_2.app/Contents/MacOS/colmap"
@@ -88,14 +89,20 @@ def colmap_generator(video_path):
                        format(video_path, vidcap.get(cv2.CAP_PROP_FRAME_COUNT), time.time() - start_time, images, points, ratios,
                               mean_img, mean_point, mean_ratio))
 
+    ### Delete Frame Images and COLMAP Database ###
+    db_path = Path(str(colmap_path) + "/database.db")
+    if frame_path.exists():
+        shutil.rmtree(frame_path)
+    # if db_path.exists():
+    #     os.remove(db_path)
 
 if __name__ == "__main__":
     video_root = Path("/Users/apple/Desktop/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/testing_videos")
     stats_path = "/Users/apple/Desktop/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/time.txt"
     video_root = Path("/Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/A")
     stats_path = "/Users/xwang169/Downloads/Non-Deformed-Pure-Camera-Motion-Detection/COLMAP/time.txt"
-    with open(stats_path, 'w') as the_file:
-        pass
+    # with open(stats_path, 'w') as the_file:
+    #     pass
     whole_video = True
     if whole_video:
         video_path_list = list(video_root.glob("*.mp4"))
