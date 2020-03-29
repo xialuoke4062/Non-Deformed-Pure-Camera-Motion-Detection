@@ -428,7 +428,7 @@ if __name__ == "__main__":
 
     """Video Loading Path"""
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    alpha = "S"
+    alpha = "ADEM"
     for elem in alpha:
         # path_str = "/Users/xwang169/Downloads/videos/" + elem
         path_str = "/Users/apple/Desktop/Xingtong_2/www.gastrointestinalatlas.com/videos/" + elem
