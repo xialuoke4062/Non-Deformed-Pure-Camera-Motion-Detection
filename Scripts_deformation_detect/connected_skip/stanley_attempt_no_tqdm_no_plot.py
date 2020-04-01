@@ -172,7 +172,8 @@ def generate(video_path):
             result_path = Path(str(video_path)[:-4])
             if not result_path.exists():
                 result_path.mkdir()
-            else:
+            plot_path = Path(str(result_path / "thres{}_skip_{}.png".format(r_threshold, skip)))
+            if plot_path.exists():
                 continue
 
             """Check if path and video is valid"""
@@ -251,7 +252,11 @@ def generate(video_path):
                     break
                 frame = frame[high_cut:low_cut, left_cut:right_cut, :]
                 """ Calculate dense optical flow using L-K method """
-                flow, opt_flow, mean_flow = calc_optical_flow(prev_frame, frame)
+                try:
+                    flow, opt_flow, mean_flow = calc_optical_flow(prev_frame, frame)
+                except:
+                    print("!!!BROKEN VIDEO: "+str(video_path))
+                    return
                 means.append(mean_flow / 100)
 
                 ''' Faster Train_2D Build '''
@@ -428,7 +433,9 @@ if __name__ == "__main__":
 
     """Video Loading Path"""
     alpha = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    alpha = "ADEM"
+    #passed = "ABCDEFGHIJKLMNOPQRST"
+    #NEXT = UVW
+    alpha = "UVWXYZ"
     for elem in alpha:
         # path_str = "/Users/xwang169/Downloads/videos/" + elem
         path_str = "/Users/apple/Desktop/Xingtong_2/www.gastrointestinalatlas.com/videos/" + elem
